@@ -1,4 +1,4 @@
-ShreeyaSS7# 👋 Hi, I'm Shreeya
+# 👋 Hi, I'm Shreeya Satav
 
 Computer Engineering student passionate about **data analytics, backend development, and building practical, user-focused projects**.
 
